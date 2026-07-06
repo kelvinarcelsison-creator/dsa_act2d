@@ -31,5 +31,6 @@ public class Sison_program {
          System.out.println("diff is:"+diff); 
         System.out.println("multi is:"+multi); 
         System.out.println("div is:"+div); 
+        System.out.println("div is:"+div); 
     }
 }
